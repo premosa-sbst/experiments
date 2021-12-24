@@ -1,0 +1,18 @@
+bug-id,reason
+Lang-2,deprecated
+Lang-23,no buggy methods
+Lang-25,no buggy methods
+Lang-30,SBST generates uncompilable tests
+Lang-56,no buggy methods
+Lang-63,SBST generates uncompilable tests
+Math-12,no buggy methods
+Math-104,no buggy methods
+Time-11,no buggy methods
+Time-21,deprecated
+Chart-23,no buggy methods
+Closure-15,no buggy methods
+Closure-28,no buggy methods
+Closure-63,deprecated
+Closure-93,deprecated
+Closure-111,no buggy methods
+Mockito-26,no buggy methods
